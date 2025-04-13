@@ -3,7 +3,6 @@ In this project, you'll step into the role of a database administrator tasked wi
 # MySQL Bookstore Database
 This README provides an overview of the queries used in the MySQL Bookstore database and their expected outcomes.
 ---
-## Expected Outcomes
 
 ### Database Creation
 - A new database named `mysql_bookstore` is created and set as the active database.
