@@ -1,9 +1,8 @@
 # mysql-bookstore
 In this project, you'll step into the role of a database administrator tasked with building a MySQL database to store and manage data for a BookStore. By applying your skills in database design, table creation, data loading, and user management, you'll develop an organized system for this important real-world system. This hands-on project provides valuable experience in efficiently structuring databases to handle large, complex data.
 # MySQL Bookstore Database
-This README provides an overview of the queries used in the MySQL Bookstore database and their expected outcomes.
+This README provides an overview of the queries used in the MySQL Bookstore database.
 ---
-## Expected Outcomes
 
 ### Database Creation
 - A new database named `mysql_bookstore` is created and set as the active database.
